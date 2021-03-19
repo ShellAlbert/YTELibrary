@@ -5,8 +5,12 @@ Yantai Electrcian Library
 ## Motor  
 [Encoder](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/encoder/encoder.md)
 [BLDC-Drv-Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/embedfire-bldc/embedfire-bldc.md)
+## PCB/CAM
+[Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/allegro.md)
 # Software
 
 # Others
 [MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
+   
+git add --all && git commit --all && git push origin HEAD   
 
