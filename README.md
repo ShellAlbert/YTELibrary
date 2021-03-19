@@ -8,5 +8,5 @@ Yantai Electrcian Library
 # Software
 
 # Others
-[MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/images/md.png)
+[MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
 

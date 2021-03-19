@@ -1,4 +1,4 @@
-野火无刷电机驱动板(分立元器件版本)
+野火无刷电机驱动板(分立元器件版本)  
 brush-less DC motor driver schematic analysis
 ![1](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/embedfire-bldc/drv-1.png)
 ![2](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/embedfire-bldc/drv-2.png)
