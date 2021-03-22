@@ -10,6 +10,7 @@ Yantai Electrcian Library
 [SignalIntegrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/si.md)
 # Software
 [SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/replace/replace.md)
+[Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/embedded/embedded.md)
 
 # Others
 [MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)

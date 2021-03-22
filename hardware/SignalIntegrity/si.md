@@ -1,4 +1,5 @@
 ![si.png](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/si.png)   
+![si_problem.png](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/si_problem.png)   
 # 信号完整性 (Signal Integrity)
 在信号的传输过程中保持**时域**和**频域**特性的能力,   
 使信号能满足时序（Timing）和信号质量两个方面的要求，   
@@ -18,7 +19,8 @@
 2.指数字信号的上升与下降（或称信号的跳变）非常之快，当信号的上升时间小于6倍（有说4倍）信号传输延时（电长度）时即认为信号是高速信号，而与信号的频率无关。   
 
 # Learned Books
-1.<<2008年中国电子学会SI培训班内部教材.pdf>> March 22,2021,P179   
+1.<<2008年中国电子学会SI培训班内部教材.pdf>> March 22,2021   
+2.
 
 
 
