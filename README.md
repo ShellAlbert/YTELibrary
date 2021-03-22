@@ -7,7 +7,9 @@ Yantai Electrcian Library
 [BLDC-Drv-Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/embedfire-bldc/embedfire-bldc.md)
 ## PCB/CAM
 [Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/allegro.md)
+
 # Software
+[SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/replace/replace.md)
 
 # Others
 [MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
