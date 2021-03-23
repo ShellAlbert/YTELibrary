@@ -7,7 +7,8 @@
 [EIA标准电阻阻值](https://user-images.githubusercontent.com/32056331/112121605-61926100-8bfa-11eb-8793-a2d85a447fad.jpg)
 [表1](https://user-images.githubusercontent.com/32056331/112119796-ac12de00-8bf8-11eb-99f5-9950680b0f98.jpg)
 [表2](https://user-images.githubusercontent.com/32056331/112120009-d49ad800-8bf8-11eb-98ef-f4c9c5f32830.jpg)
-
+[标准电容值](https://user-images.githubusercontent.com/32056331/112126521-7de4cc80-8bff-11eb-8951-747d5d69560a.jpg)
+[表1](https://user-images.githubusercontent.com/32056331/112126328-4e35c480-8bff-11eb-80ca-aff30cc4cbc5.jpg)
 # Learned Books
 1.<<[跨越思维-电子技术读本.pdf](https://user-images.githubusercontent.com/32056331/112080226-8b2c9780-8bbc-11eb-9c7d-fce512add5f0.png)>> March 22,2021   
 2.
