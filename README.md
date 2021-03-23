@@ -1,6 +1,7 @@
 Yantai Electrcian Library
 # Hardware
 ## Power Supply
+[Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/Electrical.md)
 [Power](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/PowerSupply.md)
 ## CPU/MCU
 [Matrix Button IO Scan](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/IOScan/IOScan.md)
