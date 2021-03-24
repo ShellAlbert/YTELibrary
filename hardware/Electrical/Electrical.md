@@ -12,6 +12,8 @@
 [滤波电容vs去耦电容vs旁路电容](https://user-images.githubusercontent.com/32056331/112243339-5c7bf300-8c88-11eb-8bd1-01173f4445ad.png)
 [隔直通交/电压不能突变](https://user-images.githubusercontent.com/32056331/112243397-70275980-8c88-11eb-9a65-039af7f9aeb0.png)
 旁路电容并接在电阻两端，为交流信号提供一个回路，避免交流信号流经电阻产生压降衰减。   
+[安规电容/XY](https://user-images.githubusercontent.com/32056331/112247805-e67b8a00-8c8f-11eb-9cc9-8bf2ec2e0c16.png)
+[Y电容用法](https://user-images.githubusercontent.com/32056331/112247953-16c32880-8c90-11eb-8276-8f53a9881877.png)
 
 # Learned Books
 1.<<[跨越思维-电子技术读本.pdf](https://user-images.githubusercontent.com/32056331/112080226-8b2c9780-8bbc-11eb-9c7d-fce512add5f0.png)>> March 22,2021   
