@@ -11,6 +11,8 @@ Yantai Electrcian Library
 ## PCB/CAM
 [Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/allegro.md)
 [SignalIntegrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/si.md)
+[回流焊/波峰焊](https://user-images.githubusercontent.com/32056331/112285222-0bd6bb00-8cc5-11eb-8740-c897acf31793.png)
+
 # Software
 [SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/replace/replace.md)
 [Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/embedded/embedded.md)

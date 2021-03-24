@@ -14,6 +14,10 @@
 [安规电容/XY](https://user-images.githubusercontent.com/32056331/112247805-e67b8a00-8c8f-11eb-9cc9-8bf2ec2e0c16.png)
 [Y电容用法](https://user-images.githubusercontent.com/32056331/112247953-16c32880-8c90-11eb-8276-8f53a9881877.png)
 
+[共基极放大电路]()
+[共集电极放大电路]()
+[共发射极放大电路]()
+
 # Learned Books
 1.<<[跨越思维-电子技术读本.pdf](https://user-images.githubusercontent.com/32056331/112080226-8b2c9780-8bbc-11eb-9c7d-fce512add5f0.png)>> March 22,2021   
 2.
