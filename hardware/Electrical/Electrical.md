@@ -9,8 +9,9 @@
 [表2](https://user-images.githubusercontent.com/32056331/112120009-d49ad800-8bf8-11eb-98ef-f4c9c5f32830.jpg)
 [标准电容值](https://user-images.githubusercontent.com/32056331/112126521-7de4cc80-8bff-11eb-8951-747d5d69560a.jpg)
 [表1](https://user-images.githubusercontent.com/32056331/112126328-4e35c480-8bff-11eb-80ca-aff30cc4cbc5.jpg)
-[滤波电容vs去耦电容vs旁路电容](https://user-images.githubusercontent.com/32056331/112242180-4b31e700-8c86-11eb-91e1-f35536dd1051.png)
-[隔直通交/电压不能突变](https://user-images.githubusercontent.com/32056331/112242233-66045b80-8c86-11eb-941d-5995ea72689f.png)
+[滤波电容vs去耦电容vs旁路电容](https://user-images.githubusercontent.com/32056331/112243339-5c7bf300-8c88-11eb-8bd1-01173f4445ad.png)
+[隔直通交/电压不能突变](https://user-images.githubusercontent.com/32056331/112243397-70275980-8c88-11eb-9a65-039af7f9aeb0.png)
+旁路电容并接在电阻两端，为交流信号提供一个回路，避免交流信号流经电阻产生压降衰减。   
 
 # Learned Books
 1.<<[跨越思维-电子技术读本.pdf](https://user-images.githubusercontent.com/32056331/112080226-8b2c9780-8bbc-11eb-9c7d-fce512add5f0.png)>> March 22,2021   
