@@ -1,4 +1,4 @@
-Yantai Electrcian Library
+Yantai Electrcian Daily Life
 # Hardware
 ## Power Supply
 [Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/Electrical.md)
@@ -24,5 +24,5 @@ Yantai Electrcian Library
 # Others
 [MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
    
-git add --all && git commit --all && git push origin HEAD   
+Be a good listener, your ears will never get you into trouble.   
 
