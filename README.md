@@ -9,8 +9,7 @@ Yantai Electrcian Daily Life
 [Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/schematic.md)
 
 ## Motor  
-[Encoder](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/encoder/encoder.md)
-[BLDC-Drv-Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/embedfire-bldc/embedfire-bldc.md)
+[Motor](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Motor/motor.md)
 
 ## PCB/CAM
 [Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/allegro.md)
