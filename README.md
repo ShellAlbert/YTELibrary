@@ -3,11 +3,15 @@ Yantai Electrcian Library
 ## Power Supply
 [Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/Electrical.md)
 [Power](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/PowerSupply.md)
+
 ## CPU/MCU
-[Matrix Button IO Scan](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/IOScan/IOScan.md)
+[Interface](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/interface.md)
+[Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/schematic.md)
+
 ## Motor  
 [Encoder](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/encoder/encoder.md)
 [BLDC-Drv-Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor/embedfire-bldc/embedfire-bldc.md)
+
 ## PCB/CAM
 [Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/allegro.md)
 [SignalIntegrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/si.md)
