@@ -16,6 +16,9 @@ EmbedFire BLDC DrvSch
 [P8](https://user-images.githubusercontent.com/32056331/112434218-46e8f500-8d7e-11eb-8cf8-015b4ac04e6b.png)
 [P9](https://user-images.githubusercontent.com/32056331/112434220-47818b80-8d7e-11eb-87c6-f882674719d8.png)
 
+## Voltage/Current Sensor
+CurrentSense
+[P1](https://user-images.githubusercontent.com/32056331/112567653-2f604980-8e1c-11eb-8d60-7a7c1d410725.png)
 
 
 
