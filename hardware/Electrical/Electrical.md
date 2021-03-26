@@ -27,7 +27,8 @@ EIA标准电阻阻值
 [P1](https://user-images.githubusercontent.com/32056331/112247805-e67b8a00-8c8f-11eb-9cc9-8bf2ec2e0c16.png)
 [P2](https://user-images.githubusercontent.com/32056331/112247953-16c32880-8c90-11eb-8276-8f53a9881877.png)
 
-共基/共集/共射放大电路
+[共射放大](https://user-images.githubusercontent.com/32056331/112606307-2e96da00-8e53-11eb-9ec1-618464103aba.png)
+共集/共基放大电路
 
 
 积分/微分
