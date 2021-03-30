@@ -29,6 +29,7 @@ EIA标准电阻阻值
 
 [共射放大](https://user-images.githubusercontent.com/32056331/112606307-2e96da00-8e53-11eb-9ec1-618464103aba.png)
 共集/共基放大电路
+[差分放大](https://user-images.githubusercontent.com/32056331/112957850-6e700100-9174-11eb-98f9-cd4208cc7917.png)
 
 
 积分/微分
