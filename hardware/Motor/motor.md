@@ -5,6 +5,10 @@ Encoder
 [P2](https://user-images.githubusercontent.com/32056331/112433959-ec4f9900-8d7d-11eb-9b58-32233ac91ec5.png)
 
 ## Driver
+PWM
+SPWM
+[P1](https://user-images.githubusercontent.com/32056331/112958288-e50cfe80-9174-11eb-9361-bb233bdbce91.png)
+
 EmbedFire BLDC DrvSch
 [P1](https://user-images.githubusercontent.com/32056331/112434197-405a7d80-8d7e-11eb-8b98-2e6a4eac4bcd.png)
 [P2](https://user-images.githubusercontent.com/32056331/112434202-42bcd780-8d7e-11eb-9669-2228633c9f75.png)
