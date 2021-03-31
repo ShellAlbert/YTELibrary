@@ -36,6 +36,8 @@ EIA标准电阻阻值
 [P1](https://user-images.githubusercontent.com/32056331/113071886-44602280-91f8-11eb-9eea-67ac2b33ef93.png)
 差分放大
 [P1](https://user-images.githubusercontent.com/32056331/112957850-6e700100-9174-11eb-98f9-cd4208cc7917.png)
+甲类功率放大器
+[P1](https://user-images.githubusercontent.com/32056331/113075255-2e099500-91ff-11eb-8afa-85ea4b48df4b.png)
 
 ## 运算/变换
 积分/微分
