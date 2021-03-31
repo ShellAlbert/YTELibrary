@@ -27,16 +27,22 @@ EIA标准电阻阻值
 [P1](https://user-images.githubusercontent.com/32056331/112247805-e67b8a00-8c8f-11eb-9cc9-8bf2ec2e0c16.png)
 [P2](https://user-images.githubusercontent.com/32056331/112247953-16c32880-8c90-11eb-8276-8f53a9881877.png)
 
-[共射放大](https://user-images.githubusercontent.com/32056331/112606307-2e96da00-8e53-11eb-9ec1-618464103aba.png)
-共集/共基放大电路
-[差分放大](https://user-images.githubusercontent.com/32056331/112957850-6e700100-9174-11eb-98f9-cd4208cc7917.png)
+## 放大电路
+共射放大
+[P1](https://user-images.githubusercontent.com/32056331/112606307-2e96da00-8e53-11eb-9ec1-618464103aba.png)
+共集放大
+[P1](https://user-images.githubusercontent.com/32056331/113071880-42965f00-91f8-11eb-9eb5-3436cb31df52.png)
+共基放大
+[P1](https://user-images.githubusercontent.com/32056331/113071886-44602280-91f8-11eb-9eea-67ac2b33ef93.png)
+差分放大
+[P1](https://user-images.githubusercontent.com/32056331/112957850-6e700100-9174-11eb-98f9-cd4208cc7917.png)
 
-
+## 运算/变换
 积分/微分
 [P1](https://user-images.githubusercontent.com/32056331/112413807-cb764c00-8d5b-11eb-8a34-5fbffab9bf39.png)
 [P2](https://user-images.githubusercontent.com/32056331/112413816-d03b0000-8d5b-11eb-84da-f2594af40349.png)
 
 
 # Learned Books
-1.<<RD-跨越思维-电子技术读本.pdf>> March 22,2021   
+1.<<RD-跨越思维-电子技术读本.pdf>> March 30,2021   
 2.
