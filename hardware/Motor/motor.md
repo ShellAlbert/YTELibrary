@@ -3,6 +3,8 @@
 Encoder
 [P1](https://user-images.githubusercontent.com/32056331/112433924-e063d700-8d7d-11eb-9915-9475f78eb9a4.png)
 [P2](https://user-images.githubusercontent.com/32056331/112433959-ec4f9900-8d7d-11eb-9b58-32233ac91ec5.png)
+Hall
+[P1](https://user-images.githubusercontent.com/32056331/113250808-c41ee780-92f3-11eb-8e23-5d848ea15d42.png)
 
 ## Driver
 PWM
