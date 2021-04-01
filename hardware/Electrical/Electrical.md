@@ -43,7 +43,8 @@ EIA标准电阻阻值
 积分/微分
 [P1](https://user-images.githubusercontent.com/32056331/112413807-cb764c00-8d5b-11eb-8a34-5fbffab9bf39.png)
 [P2](https://user-images.githubusercontent.com/32056331/112413816-d03b0000-8d5b-11eb-84da-f2594af40349.png)
-
+加法器
+减法器
 
 # Learned Books
 1.<<RD-跨越思维-电子技术读本.pdf>> March 30,2021   
