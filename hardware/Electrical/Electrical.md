@@ -1,5 +1,5 @@
 # Electrical Knowledge Summary
-阻抗匹配
+Impedance Match
 [P1](https://user-images.githubusercontent.com/32056331/112106601-d78dcc80-8be8-11eb-9f9b-d9693a4de2f6.png)
 [P2](https://user-images.githubusercontent.com/32056331/112110833-681adb80-8bee-11eb-9c91-126aa71c3646.png)
 [P3](https://user-images.githubusercontent.com/32056331/112113136-643c8880-8bf1-11eb-8ba3-42e5c3772a22.png)
@@ -7,7 +7,7 @@
 PTC/NTC
 [P1](https://user-images.githubusercontent.com/32056331/112107506-fd67a100-8be9-11eb-8594-1aabe724d555.png)
 
-稳压管
+Zener diode
 [P1](https://user-images.githubusercontent.com/32056331/112598929-356d1f00-8e4a-11eb-9db3-aec55762f6e3.png)
 
 EIA标准电阻阻值
