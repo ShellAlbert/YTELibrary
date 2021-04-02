@@ -21,6 +21,8 @@
 ## One Key Power ON/OFF
 一键开关机电路
 [P1](https://user-images.githubusercontent.com/32056331/113376641-ba08f180-93a4-11eb-9cb3-41b69390c5cb.jpg)
+[P2](https://user-images.githubusercontent.com/32056331/113391169-b174e300-93c5-11eb-8772-5f92b01de6ac.png)
+[P3](https://user-images.githubusercontent.com/32056331/113391174-b2a61000-93c5-11eb-8fe2-4d3b8d9ab1f9.png)
 
 
 ## Power Switch
