@@ -8,6 +8,7 @@
 [P2](https://user-images.githubusercontent.com/32056331/112265460-7da30a80-8cad-11eb-9524-aea679b8e704.png)
 [P3](https://user-images.githubusercontent.com/32056331/112265541-9dd2c980-8cad-11eb-94c9-7cce3385b7f1.png)
 [P4](https://user-images.githubusercontent.com/32056331/113378313-40273700-93a9-11eb-9ed1-67cefbba8c41.jpg)
+[P5](https://user-images.githubusercontent.com/32056331/113387059-1fb5a780-93be-11eb-92c7-8d05f95518e6.png)
 
 过压保护
 
@@ -21,3 +22,6 @@
 一键开关机电路
 [P1](https://user-images.githubusercontent.com/32056331/113376641-ba08f180-93a4-11eb-9cb3-41b69390c5cb.jpg)
 
+
+## Power Switch
+主电辅电切换
