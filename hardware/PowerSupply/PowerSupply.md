@@ -7,6 +7,8 @@
 [P1](https://user-images.githubusercontent.com/32056331/113377777-e07c5c00-93a7-11eb-8f82-b89fa74336ea.png)
 [P2](https://user-images.githubusercontent.com/32056331/112265460-7da30a80-8cad-11eb-9524-aea679b8e704.png)
 [P3](https://user-images.githubusercontent.com/32056331/112265541-9dd2c980-8cad-11eb-94c9-7cce3385b7f1.png)
+[P4](https://user-images.githubusercontent.com/32056331/113378313-40273700-93a9-11eb-9ed1-67cefbba8c41.jpg)
+
 过压保护
 
 过流保护
