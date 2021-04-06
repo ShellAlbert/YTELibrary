@@ -23,7 +23,10 @@ One Key Power ON/OFF
 [P1](https://user-images.githubusercontent.com/32056331/113376641-ba08f180-93a4-11eb-9cb3-41b69390c5cb.jpg)
 [P2](https://user-images.githubusercontent.com/32056331/113391169-b174e300-93c5-11eb-8772-5f92b01de6ac.png)
 [P3](https://user-images.githubusercontent.com/32056331/113391174-b2a61000-93c5-11eb-8fe2-4d3b8d9ab1f9.png)
-
+Soft Power ON/OFF
+[P1](https://user-images.githubusercontent.com/32056331/113643658-63a5f680-96b5-11eb-8d20-cb0d15f3e44b.png)
 
 ## Power Switch
 Main/Aux Power Supply Switch
+[P1](https://user-images.githubusercontent.com/32056331/113644761-09f2fb80-96b8-11eb-983b-d03254f2064e.png)
+
