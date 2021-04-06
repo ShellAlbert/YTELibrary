@@ -24,4 +24,5 @@ PT10/100/1000
 
 ## Learned Books
 1.<<RD-Microchip-DS41285A_CN-3.3V与5V连接技巧与诀窍.pdf>> April 2,2021
+2.<<RD-TI-2-3-4-WireRTDMeasurement-ADS1247.pdf>> April 6,2021
 

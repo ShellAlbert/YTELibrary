@@ -46,6 +46,14 @@ EIA标准电阻阻值
 加法器
 减法器
 
+## Filter
+LowPassFilter
+[P1](https://user-images.githubusercontent.com/32056331/113690338-ddfa6900-96fd-11eb-9bc6-8a0af979e93f.png)
+
+HighPassFilter
+BandPassFilter
+BandStopFilter
+
 ## MOSFET
 PMOS/NMOS
 [P1](https://user-images.githubusercontent.com/32056331/113649876-d0bf8900-96c1-11eb-975b-d14add121ee2.png)
