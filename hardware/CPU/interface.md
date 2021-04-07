@@ -26,7 +26,4 @@ PT10/100/1000
 [P1](https://user-images.githubusercontent.com/32056331/113676086-9e785080-96ee-11eb-9327-ff761936fbdf.png)
 [P2](https://user-images.githubusercontent.com/32056331/113676098-a20bd780-96ee-11eb-9663-73e746d49d54.png)
 
-## Learned Books
-1.<<RD-Microchip-DS41285A_CN-3.3V与5V连接技巧与诀窍.pdf>> April 2,2021
-2.<<RD-TI-2-3-4-WireRTDMeasurement-ADS1247.pdf>> April 6,2021
 

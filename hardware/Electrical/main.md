@@ -58,6 +58,3 @@ BandStopFilter
 PMOS/NMOS
 [P1](https://user-images.githubusercontent.com/32056331/113649876-d0bf8900-96c1-11eb-975b-d14add121ee2.png)
 
-# Learned Books
-1.<<RD-跨越思维-电子技术读本.pdf>> March 30,2021   
-2.

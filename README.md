@@ -28,6 +28,6 @@
 
 # Others
 [MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
-   
+[Learned Books](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/books.md)
 Be a good listener, your ears will never get you into trouble.   
 
