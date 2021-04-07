@@ -7,7 +7,8 @@
 ## CPU/MCU
 [Interface](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/interface.md)
 [Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/schematic.md)
-[Router](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Router/main.md)
+[Router](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/router.md)
+[Peripheral](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/peripheral.md)
 
 ## Motor  
 [Motor](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Motor/main.md)
