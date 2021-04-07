@@ -3,6 +3,10 @@ SDRAM
 [P1](https://user-images.githubusercontent.com/32056331/112438411-d690a280-8d82-11eb-9f96-08e92935ab8f.png)
 [P2](https://user-images.githubusercontent.com/32056331/112438417-d85a6600-8d82-11eb-8e6b-db0ea7ec574e.png)
 
+## I/O
+IO驱动能力/拉电流/灌电流
+[P1](https://user-images.githubusercontent.com/32056331/113806782-8ad3f500-9795-11eb-92c4-b824f1c0d5cd.png)
+
 ## Key/Button
 Matrix IO Scan
 [P1](https://user-images.githubusercontent.com/32056331/112430426-194d7d00-8d79-11eb-9c8e-4965708c95eb.png)
