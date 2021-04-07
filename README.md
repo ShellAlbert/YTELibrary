@@ -1,25 +1,30 @@
 
 # Hardware
 ## Power Supply
-[Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/Electrical.md)
-[Power](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/PowerSupply.md)
+[Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/main.md)
+[Power](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/main.md)
 
 ## CPU/MCU
 [Interface](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/interface.md)
 [Schematic](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/schematic.md)
-[Router](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Router/Router.md)
+[Router](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Router/main.md)
 
 ## Motor  
-[Motor](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Motor/motor.md)
+[Motor](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Motor/main.md)
 
 ## PCB/CAM
-[Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/allegro.md)
-[SignalIntegrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/si.md)
-[SMT](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SMT/smt.md)
+[Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/main.md)
+[SignalIntegrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/main.md)
+[SMT](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SMT/main.md)
 
 # Software
-[SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/replace/replace.md)
-[Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/embedded/embedded.md)
+[SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/replace/main.md)
+[Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/embedded/main.md)
+
+# Product Analysis
+[Consumer Electronics](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/consumer/main.md)
+[Industrial Equipment]
+[Drone/UnmannedAerialVehicle]
 
 # Others
 [MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
