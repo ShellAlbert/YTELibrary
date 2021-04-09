@@ -4,6 +4,7 @@
 | Text Editor | Sublime Text | Sublime Text/vim/kate | |
 | Office | Microsoft Office | Libre Office | |
 | PDF Reader | Foxit Pdf Reader | Okular | |
+| PDF to JPG | PDF To JPG Converter | | |
 | PCB Design | Cadence Allegro | | |
 | CAM | CAM350 | | |
 | Video/Audio Editor | OpenShotVideoEditor | | |
