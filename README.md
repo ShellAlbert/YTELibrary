@@ -2,7 +2,7 @@
 # Hardware
 ## Power Supply
 [Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/main.md)
-[Power](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/main.md)
+[Power Supply](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/main.md)
 
 ## CPU/MCU
 [Interface](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/interface.md)
