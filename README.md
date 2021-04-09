@@ -2,7 +2,7 @@
 # Hardware
 ## Power Supply
 [Electrical](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Electrical/main.md)
-[Power Supply](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/main.md)
+[Power-Supply](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/main.md)
 
 ## CPU/MCU
 [Interface](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/CPU/interface.md)
@@ -15,7 +15,7 @@
 
 ## PCB/CAM
 [Allegro](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/Allegro/main.md)
-[SignalIntegrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/main.md)
+[Signal-Integrity](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SignalIntegrity/main.md)
 [SMT](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/SMT/main.md)
 
 # Software
@@ -23,12 +23,12 @@
 [Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/software/embedded/main.md)
 
 # Product Analysis
-[Consumer Electronics](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/consumer/main.md)
-[Industrial Equipment]
+[Consumer-Electronics](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/consumer/main.md)
+[Industrial-Equipment]
 [Drone/UnmannedAerialVehicle]
 
 # Others
-[MarkDown Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
-[Learned Books](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/books.md)
+[MarkDown-Grammer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/markdown/md.png)
+[Learned-Books](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/others/books.md)
 Be a good listener, your ears will never get you into trouble.   
 

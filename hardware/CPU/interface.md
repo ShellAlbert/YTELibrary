@@ -26,4 +26,7 @@ PT10/100/1000
 [P1](https://user-images.githubusercontent.com/32056331/113676086-9e785080-96ee-11eb-9327-ff761936fbdf.png)
 [P2](https://user-images.githubusercontent.com/32056331/113676098-a20bd780-96ee-11eb-9663-73e746d49d54.png)
 
-
+## Audio Input/Output
+MIC
+[P1](https://user-images.githubusercontent.com/32056331/114150435-a46c6c80-994e-11eb-835b-4a9e481bde2a.png)
+Speaker
