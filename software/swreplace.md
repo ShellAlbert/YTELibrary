@@ -8,7 +8,7 @@
 | PCB Design | Cadence Allegro | | |
 | CAM | CAM350 | | |
 | Video/Audio Editor | OpenShotVideoEditor | | |
-| Screen Capture| FastStoneCapture/PickPick/Snagit | Shutter/Spectacle | |
+| Screen Capture| FastStoneCapture/PickPick/Snagit | FlameShot/Shutter/Spectacle | |
 | Break Reminder | FadeTop/Iris | | | 
 | Proxy | V2Ray | QV2Ray | v2ray |
 | Diagram drawing | yEd Graph Editor | yEd Graph Editor/Dia | |
