@@ -13,6 +13,8 @@
 ## MediaTek Solution (Ralink)
 ## Qualcomm Solution (Atheros)
 ## RealTek Solution
+[RTL8188 USB无线网卡](https://user-images.githubusercontent.com/32056331/115215479-1f473b80-a136-11eb-9da9-baeca6e25f62.png)
+
 
 
 
