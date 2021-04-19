@@ -9,7 +9,7 @@
 [Router](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/router.md)
 [Peripheral](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/peripheral.md)
 [LEDScreen](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/ledscreen.md)
-
+[DevBoard](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/devboard.md)
 ## Motor  
 [Motor](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/motor.md)
 
