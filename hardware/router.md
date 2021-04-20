@@ -5,6 +5,7 @@
 [P1](https://user-images.githubusercontent.com/32056331/114361452-ba756980-9ba8-11eb-9ab8-3350c57f31a1.png)
 [P2](https://user-images.githubusercontent.com/32056331/114361474-bf3a1d80-9ba8-11eb-8614-7c2fe008c94e.png)
 
+[盘点全球WiFi芯片厂商](https://user-images.githubusercontent.com/32056331/115324254-2add4580-a1bc-11eb-880b-f3d0fa8308da.png)
 
 
 ## Broadcom Solution
