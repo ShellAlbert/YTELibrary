@@ -15,6 +15,8 @@
 ## RealTek Solution
 [RTL8188 USB无线网卡](https://user-images.githubusercontent.com/32056331/115215479-1f473b80-a136-11eb-9da9-baeca6e25f62.png)
 
+## Tenda(腾达)
+[Tenda无线路由器拆解](https://user-images.githubusercontent.com/32056331/115321544-a0deae00-a1b6-11eb-8c01-3d53c2cfeaaa.png)
 
 
 
