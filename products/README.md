@@ -4,4 +4,6 @@
 [Drive Recorder](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/DriveRecorder.md)   
 [Phone](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/Phone.md)   
 [Drone/UAV](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/Drone.md)   
+[Thermometer](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/Thermometer.md)   
+[Intelligent Power Socket](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/products/PowerSocket.md)   
 

@@ -3,8 +3,9 @@
 | :---: | :---: | :---: | :---: |
 | Embedded System | 软路由 | <<RD-智能路由器开发指南.pdf>> | March 12,2021 |
 |                 | 通用类 | <<RD-嵌入式产品分析与设计.pdf>> | March 22,2021 |
+|                 |       | <<RD-电子系统设计——面向嵌入式硬件电路.pdf>> | April ?,2021 |
 |                 |  MTK  | <<RD-MTK智能穿戴(电话手表)开发教程(1~9).pdf>> | April 20,2021 |
-|                 |  MTK  | <<RD-MTK应用开发从入门到精通.pdf>> | April 20,2021 |
+|                 |       | <<RD-MTK应用开发从入门到精通.pdf>> | April 23,2021 |
 | Signal Integrity | 信号完整性 | <<RD-2008年中国电子学会SI培训班内部教材.pdf>> | March 22,2021 |
 | Electrical Basic | 电子基础 | <<RD-跨越思维-电子技术读本.pdf>> | March 30,2021 |
 | Peripheral Interface | 接口电路 | <<RD-Microchip-DS41285A_CN-3.3V与5V连接技巧与诀窍.pdf>> | April 2,2021 |
