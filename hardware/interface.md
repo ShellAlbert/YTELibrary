@@ -8,7 +8,7 @@ IO驱动能力/拉电流/灌电流
 [P1](https://user-images.githubusercontent.com/32056331/113806782-8ad3f500-9795-11eb-92c4-b824f1c0d5cd.png)
 
 ## Key/Button
-Matrix IO Scan
+矩阵按键扫描
 [P1](https://user-images.githubusercontent.com/32056331/112430426-194d7d00-8d79-11eb-9c8e-4965708c95eb.png)
 [P2](https://user-images.githubusercontent.com/32056331/112430434-1ce10400-8d79-11eb-8312-d98d24d5d23f.png)
 [P3](https://user-images.githubusercontent.com/32056331/112430437-1d799a80-8d79-11eb-9bf1-3326ca025794.png)
@@ -35,11 +35,16 @@ Speaker
 MII/RMII   
 RJ45接口(Auto MDX/MDIX端口翻转)
 [P1](https://user-images.githubusercontent.com/32056331/116020203-66728680-a678-11eb-96fd-373fc729bf3d.png)   
-双工/半双工/Auto-Nego自协商
+全双工/半双工(Auto-Nego自协商)
 [P1](https://user-images.githubusercontent.com/32056331/116022059-05e54880-a67c-11eb-89fa-6d86a4683917.png)   
 
 ## SATA
 SATA接口
 [P1](https://user-images.githubusercontent.com/32056331/116025919-2913f600-a684-11eb-8b64-42aa7507c93a.png)
+
+## USB
+USB OTG
+[P1](https://user-images.githubusercontent.com/32056331/116032712-c118dc00-a692-11eb-9583-0531838f40e7.png)
+
 
 
