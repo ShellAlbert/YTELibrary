@@ -47,6 +47,10 @@ USB OTG
 ## MIPI-CSI/DSI
 摄像头接口/显示接口
 [P1](https://user-images.githubusercontent.com/32056331/116045802-fcbca180-a6a4-11eb-9b8c-118aea72b483.png)
+HDMI
+[P1](https://user-images.githubusercontent.com/32056331/116051307-034e1780-a6ab-11eb-9911-8a35cedb6516.png)
+
+
 
 ## Protect Components
 TVS/ESD
