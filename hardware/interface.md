@@ -38,4 +38,8 @@ RJ45接口(Auto MDX/MDIX端口翻转)
 双工/半双工/Auto-Nego自协商
 [P1](https://user-images.githubusercontent.com/32056331/116022059-05e54880-a67c-11eb-89fa-6d86a4683917.png)   
 
+## SATA
+SATA接口
+[P1](https://user-images.githubusercontent.com/32056331/116025919-2913f600-a684-11eb-8b64-42aa7507c93a.png)
+
 
