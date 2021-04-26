@@ -30,3 +30,9 @@ PT10/100/1000
 MIC
 [P1](https://user-images.githubusercontent.com/32056331/114150435-a46c6c80-994e-11eb-835b-4a9e481bde2a.png)
 Speaker
+
+## Ethernet(Gigabit)
+MII/RMII   
+RJ45接口(带变压器/不带变压器)
+[P1](https://user-images.githubusercontent.com/32056331/116020203-66728680-a678-11eb-96fd-373fc729bf3d.png)
+
