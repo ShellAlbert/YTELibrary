@@ -33,6 +33,9 @@ Speaker
 
 ## Ethernet(Gigabit)
 MII/RMII   
-RJ45接口(带变压器/不带变压器)
-[P1](https://user-images.githubusercontent.com/32056331/116020203-66728680-a678-11eb-96fd-373fc729bf3d.png)
+RJ45接口(Auto MDX/MDIX端口翻转)
+[P1](https://user-images.githubusercontent.com/32056331/116020203-66728680-a678-11eb-96fd-373fc729bf3d.png)   
+双工/半双工/Auto-Nego自协商
+[P1](https://user-images.githubusercontent.com/32056331/116022059-05e54880-a67c-11eb-89fa-6d86a4683917.png)   
+
 
