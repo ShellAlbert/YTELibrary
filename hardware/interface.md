@@ -46,5 +46,9 @@ SATA接口
 USB OTG
 [P1](https://user-images.githubusercontent.com/32056331/116032712-c118dc00-a692-11eb-9583-0531838f40e7.png)
 
+## Protect Components
+TVS/ESD
+[P1](https://user-images.githubusercontent.com/32056331/116038855-929ffe80-a69c-11eb-929a-caf1b0e78853.png)   
+
 
 
