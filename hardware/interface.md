@@ -32,7 +32,8 @@ MIC
 Speaker
 
 ## Ethernet(Gigabit)
-MII/RMII   
+MII/RMII/RGMII
+[P1](https://user-images.githubusercontent.com/32056331/116060922-df8fcf00-a6b4-11eb-9d02-8936fbd3e061.png)   
 RJ45接口(Auto MDX/MDIX端口翻转)
 [P1](https://user-images.githubusercontent.com/32056331/116020203-66728680-a678-11eb-96fd-373fc729bf3d.png)   
 全双工/半双工(Auto-Nego自协商)
