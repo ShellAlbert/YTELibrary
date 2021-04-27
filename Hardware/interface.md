@@ -42,6 +42,8 @@ RJ45接口(Auto MDX/MDIX端口翻转)
 ## SATA/USB/SPI
 SATA接口
 [P1](https://user-images.githubusercontent.com/32056331/116025919-2913f600-a684-11eb-8b64-42aa7507c93a.png)   
+USB TypeA/TypeB/MicroUSB/MiniUSB/Type-C
+[P1](https://user-images.githubusercontent.com/32056331/116196352-f80bf200-a765-11eb-94ff-845d93be14ff.png)   
 USB OTG
 [P1](https://user-images.githubusercontent.com/32056331/116032712-c118dc00-a692-11eb-9583-0531838f40e7.png)   
 SPI/DualSPI/QSPI
