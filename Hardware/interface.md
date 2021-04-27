@@ -54,6 +54,8 @@ SPI/DualSPI/QSPI
 [P1](https://user-images.githubusercontent.com/32056331/116045802-fcbca180-a6a4-11eb-9b8c-118aea72b483.png)
 HDMI
 [P1](https://user-images.githubusercontent.com/32056331/116051307-034e1780-a6ab-11eb-9911-8a35cedb6516.png)
+LVDS
+[P1](https://user-images.githubusercontent.com/32056331/116202951-bbdc8f80-a76d-11eb-8468-ed0c1bc185df.png)
 
 
 
