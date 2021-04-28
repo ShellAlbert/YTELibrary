@@ -21,11 +21,6 @@ MicroChip-3.3V与5V互联
 [P1](https://user-images.githubusercontent.com/32056331/113278201-34d5fc00-9314-11eb-9fb8-d558a00219be.png)
 [P2](https://user-images.githubusercontent.com/32056331/113374524-e53d1200-939f-11eb-859e-6809fe9eb3e3.png)
 
-## Temperature Sensor
-PT10/100/1000
-[P1](https://user-images.githubusercontent.com/32056331/113676086-9e785080-96ee-11eb-9327-ff761936fbdf.png)
-[P2](https://user-images.githubusercontent.com/32056331/113676098-a20bd780-96ee-11eb-9663-73e746d49d54.png)
-
 ## Audio Input/Output
 MIC
 [P1](https://user-images.githubusercontent.com/32056331/114150435-a46c6c80-994e-11eb-835b-4a9e481bde2a.png)
