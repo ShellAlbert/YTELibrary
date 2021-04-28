@@ -10,6 +10,7 @@
 [Peripheral ](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Hardware/peripheral.md)
 [LEDScreen ](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Hardware/ledscreen.md)
 [DevBoard ](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Hardware/devboard.md)
+[Sensor](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Hardware/Sensor.md)
 ## Motor  
 [Motor ](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Hardware/motor.md)
 
