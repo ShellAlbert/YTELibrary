@@ -7,8 +7,10 @@ Hall
 [P1](https://user-images.githubusercontent.com/32056331/113250808-c41ee780-92f3-11eb-8e23-5d848ea15d42.png)
 
 ## Driver
-PWM
-SPWM
+H-Bridge
+[P1](https://user-images.githubusercontent.com/32056331/116339443-00206c00-a810-11eb-918b-7011c66e76bf.png)
+
+PWM/SPWM
 [P1](https://user-images.githubusercontent.com/32056331/112958288-e50cfe80-9174-11eb-9361-bb233bdbce91.png)
 
 EmbedFire BLDC DrvSch
