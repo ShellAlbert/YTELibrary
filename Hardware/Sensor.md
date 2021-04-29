@@ -18,11 +18,9 @@ PT100恒流源激励
 PT100电桥激励
 [P1](https://user-images.githubusercontent.com/32056331/116498481-696db100-a8dc-11eb-9daf-6ca1a73bf5bf.png)
 
-
-
-
-
 ## Pressure Sensor
+压力传感器
+[P1](https://user-images.githubusercontent.com/32056331/116508116-3f73b900-a8f3-11eb-861d-a6b67f41ca32.png)
 
 ## Current/Voltage Sensor
 
