@@ -18,11 +18,11 @@ FULL PATH: /home/shell.albert/Main_directory/Sub_directory/Document_name
 |                   | PI                        |                                                                     |           |
 | Electronics_Misc  | Basic                     | <<RD-跨越思维-电子技术读本.pdf>>                                        | 2021/3/30 |
 |                   | Interface                 | <<RD-Microchip-DS41285A_CN-3.3V与5V连接技巧与诀窍.pdf>>                | 2021/4/2 |
-| Sense_Measurement | Constant_Current_Source   | <<TI-Precision Current Sources and Sinks Using Voltage.pdf.pdf>>    |          |
-|                   |                           | <<BB-Current Loop Application Note.pdf>>                            |          |
-|                   | Temperature               | <<RD-TI-2-3-4-WireRTDMeasurement-ADS1247.pdf>>                      | 2021/4/6 |
-|                   |                           | <<MicroChip-PT100 RTD Evaluation Board User’s Guide.pdf>>           |          |
-|                   |                           | <<MicroChip-Precision Temperature-Sensing With RTD Circuits.pdf>>   |          |
+| Sense_Measurement | Constant_Current_Source   | <<"TI-Precision Current Sources and Sinks Using Voltage.pdf">>        |          |
+|                   |                           | <<"BB-Current Loop Application Note.pdf">>                            |          |
+|                   | Temperature               | <<RD-TI-2-3-4-WireRTDMeasurement-ADS1247.pdf>>                        | 2021/4/6 |
+|                   |                           | <<"MicroChip-PT100 RTD Evaluation Board User’s Guide.pdf">>           |          |
+|                   |                           | <<"MicroChip-Precision Temperature-Sensing With RTD Circuits.pdf">>   |          |
 
 
 
