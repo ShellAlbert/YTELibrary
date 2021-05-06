@@ -13,6 +13,8 @@
 ## Altera FPGA Board
 
 ## ARM Board
+1.BeagleBone_Blue(TI-AM335x)
+2.OpenRex(Freescale-iMX6)
 
 ## DSP Board
 

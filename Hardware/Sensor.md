@@ -23,4 +23,6 @@ PT100电桥激励
 [P1](https://user-images.githubusercontent.com/32056331/116508116-3f73b900-a8f3-11eb-861d-a6b67f41ca32.png)
 
 ## Current/Voltage Sensor
+[电流互感器](https://user-images.githubusercontent.com/32056331/117263964-5aab6f00-ae85-11eb-937b-d3191647d15a.png)
+[电流采样的方法](https://user-images.githubusercontent.com/32056331/117264052-70b92f80-ae85-11eb-9c42-337e9bfc192f.png)
 
