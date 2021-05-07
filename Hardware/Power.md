@@ -33,5 +33,5 @@ AC Adapter/Battery Switch
 [P1](https://user-images.githubusercontent.com/32056331/114142936-18eedd80-9946-11eb-9c9d-957e2c773e50.png)
 
 ## Schematics Analysis
-[AC/DC](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/acdc.md)
-[DC/DC](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/dcdc.md)
+[AC/DC](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/ACDC.md)
+[DC/DC](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/hardware/PowerSupply/DCDC.md)

@@ -13,6 +13,9 @@
 [可收回](https://user-images.githubusercontent.com/32056331/117394980-c3e4be00-af29-11eb-93f0-46d41179d638.png)
 [有毒](https://user-images.githubusercontent.com/32056331/117395058-e37be680-af29-11eb-9421-42dbd768d247.png)
 [无线信号](https://user-images.githubusercontent.com/32056331/117395291-39508e80-af2a-11eb-986f-a674fe0174c8.png)
+7.[PCB打样厂家](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Hardware/PCBManufacture.md)
+
+
 
 
 
