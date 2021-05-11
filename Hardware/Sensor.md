@@ -25,4 +25,6 @@ PT100电桥激励
 ## Current/Voltage Sensor
 [电流互感器](https://user-images.githubusercontent.com/32056331/117263964-5aab6f00-ae85-11eb-937b-d3191647d15a.png)
 [电流采样的方法](https://user-images.githubusercontent.com/32056331/117264052-70b92f80-ae85-11eb-9c42-337e9bfc192f.png)
+[PAC1934四路电压电流检测器](https://user-images.githubusercontent.com/32056331/117743656-c69d2700-b239-11eb-9509-4692136a5121.png)
+
 
