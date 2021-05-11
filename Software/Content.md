@@ -1,7 +1,7 @@
 # Software
-[SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Software/swreplace.md)
-[Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Software/embedded.md)
+[SWReplace](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Software/SWReplace.md)
+[Embedded](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Software/Embedded.md)
 
 # Markdown
-[Grammar](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Software/markdown.md)
+[Grammar](https://github.com/ShellAlbert/ShellAlbert.github.io/blob/master/Software/Markdown.md)
 
