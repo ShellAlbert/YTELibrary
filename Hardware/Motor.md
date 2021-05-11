@@ -36,3 +36,5 @@ Storm32三轴自稳云台
 STM32步进电机可变焦镜头控制
 [P1](https://user-images.githubusercontent.com/32056331/117523993-f526c200-afed-11eb-8c13-46ce8cde076f.png)
 [P2](https://user-images.githubusercontent.com/32056331/117523998-066fce80-afee-11eb-9f3e-129307888994.png)
+[DRV8835直流电机驱动IC](https://user-images.githubusercontent.com/32056331/117766885-cebd8c80-b262-11eb-9cf7-f7ddf1bd1304.jpg)
+
