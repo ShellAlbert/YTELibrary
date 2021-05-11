@@ -9,6 +9,9 @@ Hall
 ## Driver
 H-Bridge
 [P1](https://user-images.githubusercontent.com/32056331/116339443-00206c00-a810-11eb-918b-7011c66e76bf.png)
+[P2](https://user-images.githubusercontent.com/32056331/117787908-7ba30400-b279-11eb-9db7-c996e926c7c3.jpg)
+[P3](https://user-images.githubusercontent.com/32056331/117788182-bb69eb80-b279-11eb-8b8f-eadbd75a1ada.jpg)
+
 
 PWM/SPWM
 [P1](https://user-images.githubusercontent.com/32056331/112958288-e50cfe80-9174-11eb-9361-bb233bdbce91.png)
