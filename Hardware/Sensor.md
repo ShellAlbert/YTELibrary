@@ -27,5 +27,10 @@ PT100电桥激励
 [电流采样的方法](https://user-images.githubusercontent.com/32056331/117264052-70b92f80-ae85-11eb-9c42-337e9bfc192f.png)
 [PAC1934四路电压电流检测器](https://user-images.githubusercontent.com/32056331/117743656-c69d2700-b239-11eb-9509-4692136a5121.png)
 [过压过流保护](https://user-images.githubusercontent.com/32056331/117744084-92763600-b23a-11eb-997d-b13a7cffe872.png)
+[STM32电压电流表](https://user-images.githubusercontent.com/32056331/117748413-8a21f900-b242-11eb-873e-89193133abbc.png)
+[霍尔电流传感器ACS712](https://user-images.githubusercontent.com/32056331/117748716-21874c00-b243-11eb-8c0e-c9716bb2ddb9.png)
+
+
+
 
 
