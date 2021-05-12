@@ -24,6 +24,11 @@
 | I2C协议说明及verilog实现读写I2C器件.pdf | I2C 总线规范-ZLG.pdf | I2C 总线规范-ZLG.pdf | I2C总线应用系统设计.pdf | I2C 逻辑选型指南-ZLG.pdf |
 ## 1.7 I2S
 ## 1.8 CAN
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| CAN总线_制定主从通讯协议-ZLG.pdf | 现场总线CAN原理与应用技术-第2版.pdf | 周立功-iCAN应用层协议V1.0-精典.pdf | 简单的自定义应用层协议-11位标识符的分配.pdf | 如何建立一个iCAN网络.ppt |
+| CAN-bus现场总线基础方案-ZLG.pdf | 标准CAN-bus接口电路-ZLG.pdf | CAN总线轻松入门与实践.pdf | Renesas-CAN入门书.pdf | LPC2000系列ARM7微处理器CAN控制器驱动程序的编写与开发-ZLG.pdf |
+
 ## 1.9 SDIO
 # 2. Power_Supply
 ## 2.1 One_Key_ON_OFF
@@ -52,6 +57,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 | RD-MTK应用开发从入门到精通.tar.gz | RD-MTK智能穿戴(电话手表)开发教程(1~9).tar.gz | 3 | 4  | 5 |
 ## 3.5 IoT(Internet of Things)
+| 1 | 2 | 3 | 4  | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-物联网全栈教程-从云端到设备.pdf | 物联网应用启示录——行业分析与案例实践.pdf | RD-Raspberry Pi IoT Projects.pdf | 2016_IoT_Automation_Solutions.pdf | 物联网通信安全及解决方案.pdf |
+
 ## 3.6 AGV(Automatic Guided Vehicle)
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -75,7 +84,7 @@
 ### 3.11.2 舵机
 ### 3.11.3 Stepper Motor
 ### 3.11.4 BDC(Brush DC Motor)
-| 1 | 2 | 3 | 4  |
+| 1 | 2 | 3 | 4 |
 | :---: | :---: | :---: | :---: |
 | RD-电机驱动与控制专用集成电路及应用.pdf | RD-有刷直流电机换相原理.flv | RD-电刷换向原理.mp4 | RD-续流二极管作用.pdf |
 | 电动机的单片机控制-3rd.pdf |  |  |  |
@@ -88,6 +97,10 @@
 ### 3.11.7 Encoder
 ### 3.11.8 EtherCAT
 ### 3.11.9 CNC(Computer Numerical Control)
+# PID
+| 1 | 2 | 3 | 4  | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 先进PID控制.pdf | PID调节规律和过程控制.pdf | Practical PID Control.pdf | 4  | 5 |
 # 4. Signal Integrity
 ## 4.1 SI
 | 1 | 2 | 3 | 4  | 5 |
@@ -96,6 +109,10 @@
 ## 4.2 PI
 # 5. Sense Measurement
 ## 5.1 Common
+| 1 | 2 | 3 | 4  | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 《传感器工作原理及应用实例》.pdf | 《传感器工程》.pdf | 《传感器电路分析与设计》.pdf | 《常用传感器应用电路》.pdf | 传感器及其信号调理技术.pdf |
+| 传感器及其应用电路.pdf | 图 解机电一体化系列-传感器入门.pdf | 传感器基本应用电路.pdf | 传感器与变送器.pdf | 现代传感器集成电路-图像及磁传感器电路.pdf |
 ## 5.2 Constant Current Source
 ## 5.3 Temperature
 | 1 | 2 | 3 | 4  | 5 |
