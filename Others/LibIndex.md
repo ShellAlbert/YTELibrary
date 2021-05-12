@@ -77,6 +77,7 @@
 | Meter-BUS总线的完整通讯协议.pdf | M-BUS总线制直读水表通讯协议和通讯规约.pdf | Meter-Bus通信协议.pdf | 荷德鲁美特热表和MBUS远传资料.pdf | 远程M-BUS协议 Remote Meter Reading via M-bus.pdf |
 | RD-智能仪器设计基础.pdf | RD-智能电表及采集系统上报规则.pdf | RD-用电设备如何计算电费.pdf | 无线抄表.pdf | RD-单相远程费控智能电能表(载波)使用说明书.pdf |
 | 电能计量.pdf | 社区能源计量抄收系统规范 第1部分-数据交换.pdf | 社区能源计量抄收系统规范 第3部分-专业应用层.pdf | 《社区能源计量抄收系统规范》第4部分-仪表无线采集.pdf  | RD-飞思卡尔MCF5441集中抄表集中器平台方案.pdf |
+| 智能仪器原理、设计与发展.pdf |  |  |  |  |
 ## 3.9 Smart Watch
 ## 3.10 Tool
 ## 3.11 Motor Control
@@ -97,10 +98,18 @@
 ### 3.11.7 Encoder
 ### 3.11.8 EtherCAT
 ### 3.11.9 CNC(Computer Numerical Control)
-# PID
+## PID
 | 1 | 2 | 3 | 4  | 5 |
 | :---: | :---: | :---: | :---: | :---: |
 | 先进PID控制.pdf | PID调节规律和过程控制.pdf | Practical PID Control.pdf | 4  | 5 |
+## 2-dimensional-bar-code
+| 1 | 2 | 3 | 4  | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 条形码应用入门.pdf | 条形码技术及应用.pdf | 条码技术手册.pdf | RD-QR二维码的生成与识别原理_修订版.pdf  | RD-远景达一二维码扫描模组.pdf |
+## ModBus
+| 1 | 2 | 3 | 4  | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-Modbus和ModbusTCP协议基础介绍.pdf | RD-MODBUS规约与报文解析详细说明.pdf | RD-Modbus通讯协议简化.pdf | RD-Modbus高级通讯教程.pdf | Communications between PLC and microcontroller using Modbus Protocol.pdf |
 # 4. Signal Integrity
 ## 4.1 SI
 | 1 | 2 | 3 | 4  | 5 |
