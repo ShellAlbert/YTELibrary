@@ -220,12 +220,21 @@
 ## 4~20mA
 # Software Application
 ## GIS(Geographic Information Sytem-地理信息系统)
-| 1 | 2 | 3 | 4 | 5 |
-| :---: | :---: | :---: | :---: | :---: |
-| GIS-Basics.pdf | 2 | 3 | 4 | 5 |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| GIS-Basics.pdf | 2 | 3 | 4 | 5 | 6 |
 ## Database
-| 1 | 2 | 3 | 4 | 5 |
-| :---: | :---: | :---: | :---: | :---: |
-| MySQL | Oracle | SQLite | SQLServer | SQL-Language |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| MySQL | Oracle | SQLite | SQLServer | SQL-Language |  |
+## Shell Script
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Linux Bash编程与脚本应用实战.pdf | Linux+Shell编程从入门到精通.pdf | [图灵程序设计丛书].Linux Shell脚本攻略.第3版.pdf | [精通UNIXShell脚本编程].pdf | 实战LINUX_SHELL编程与服务器管理.pdf |  |
+## Python Script
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Python3核心编程.pdf | Python编程实践.pdf | Python_For_Dummies.pdf | RD-[图灵程序设计丛书].Python编程：从入门到实践.pdf | PYTHON网络编程基础.pdf | [图灵程序设计丛书].Python网络数据采集.pdf |
+| [图灵程序设计丛书].Python基础教程.第3版.pdf | [图灵程序设计丛书].Python数据分析基础.pdf | [图灵程序设计丛书].Python数据处理.pdf | [图灵程序设计丛书].Python数据挖掘入门与实践.pdf | [图灵程序设计丛书].Python机器学习基础教程.pdf | [图灵程序设计丛书].Python计算机视觉编程.pdf |
 # End
 
