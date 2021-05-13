@@ -140,6 +140,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 | RD-2008年中国电子学会SI培训班内部教材.tar.gz | RD-电路板级的电磁兼容设计-飞思卡尔.pdf | RD-EMC测试项目详解.pdf | 4  | 5 |
 ## PI (Power Integrity)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 电源分布系统设计.pdf | 2 | 3 | 4 | 5 |
+
 # Sense Measurement
 ## Common
 | 1 | 2 | 3 | 4 | 5 |
@@ -147,6 +151,15 @@
 | 《传感器工作原理及应用实例》.pdf | 《传感器工程》.pdf | 《传感器电路分析与设计》.pdf | 《常用传感器应用电路》.pdf | 传感器及其信号调理技术.pdf |
 | 传感器及其应用电路.pdf | 图 解机电一体化系列-传感器入门.pdf | 传感器基本应用电路.pdf | 传感器与变送器.pdf | 现代传感器集成电路-图像及磁传感器电路.pdf |
 ## Constant Current Source
+## Operating Amplifier
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-NS-AnApplicationGuideForOpAmps.pdf | 运算放大器经典应用.pdf | 运算放大器基本电路大全.pdf | 运算放大器权威指南.pdf | 图解OP放大电路设计-冈村.pdf |
+| NS-Op_Amp_Circuit_Collection.pdf | TI-A_Single-Supply_Op-Amp_Circuit_Colletion.pdf | 单电源运放图集.pdf | 史上最全的运放典型应用电路及分析.pdf | 运算放大器-虚短虚断庖丁解牛.pdf |
+### Voltage Comparator
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 电压比较器原理.pdf | 2 | 3 | 4 | 5 |
 ## Temperature
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
