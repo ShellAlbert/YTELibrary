@@ -6,9 +6,12 @@
 | 全国大学生电子设计竞赛常用电路模块制作.pdf | | 电子工程师必备_元器件应用宝典(强化版).pdf | |
 | 电子工程师自学速成-入门篇.pdf | | 电子工程师自学速成-提高篇.pdf | |
 | Basic Engineering Circuit Analysis 10版 彩超清书签版.pdf | | | |
-
+## Photo Diode
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 光电二极管及其放大电路设计.pdf | TI光电二极管放大器电路设计分析实例.pdf | 光电二极管-光电三极管应用电路.pdf | TI-AN1244-Photo-Diode Current-to-Voltage.pdf | Aleph公司光电传感器选型手册.pdf |
 ## Interface
-| 1 | 2 | 3 | 4  |
+| 1 | 2 | 3 | 4 |
 | :---: | :---: | :---: | :---: |
 | RD-Microchip-DS41285A_CN-3.3V与5V连接技巧与诀窍.pdf | | Low-Voltage Differential Signaling (LVDS).pdf | |
 
@@ -34,6 +37,10 @@
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
 | 硬件工程师必备电子书—ADC.DAC应用设计宝典.pdf | A/D_D/A转换器接口技术与实用线路.pdf| A⁄D和D⁄A转换器应用手册 .pdf | 4 | 5 |
+## Ethernet
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RJ45信号实际测量解说视频 | 2 | 3 | 4 | 5 |
 # Power_Supply
 ## One_Key_ON_OFF
 | 1 | 2 | 3 | 4 |
