@@ -236,5 +236,30 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python3核心编程.pdf | Python编程实践.pdf | Python_For_Dummies.pdf | RD-[图灵程序设计丛书].Python编程：从入门到实践.pdf | PYTHON网络编程基础.pdf | [图灵程序设计丛书].Python网络数据采集.pdf |
 | [图灵程序设计丛书].Python基础教程.第3版.pdf | [图灵程序设计丛书].Python数据分析基础.pdf | [图灵程序设计丛书].Python数据处理.pdf | [图灵程序设计丛书].Python数据挖掘入门与实践.pdf | [图灵程序设计丛书].Python机器学习基础教程.pdf | [图灵程序设计丛书].Python计算机视觉编程.pdf |
+## FFMPEG
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| FFmpeg Basics 2012 by Frantisek Korbel.pdf | FFmpeg从入门到精通.pdf | Transcoding H.264 Video via FFMPEG encoder.pdf | ffmpeg基础库编程开发.pdf | FFMpegTutorial.pdf | How To Build Your Own Cloud Encoder With FFmpeg.pdf |
+## GStreamer
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| GStreamer Application Development Manual -1.8.2.pdf | 2 | 3 | 4 | 5 | 6 |
+
+## Qt GUI
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Application Development with Qt Creator.pdf | Hands-On GUI Programming with C++ and Qt5.pdf | Qt 5 and OpenCV 4 Computer Vision Projects.pdf | Qt Creator快速入门-第2版.pdf | Qt5开发及实例.pdf | Qt5.9 c++开发指南.pdf |
+| Font-Awesome-完美的图标字体.pdf | Qt绘图软件设计教程.pdf |  |  |  |  |
+
+## Gtk+ GUI
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Foundations of GTK+ Development.pdf | 2 | 3 | 4 | 5 | 6 |
+
+## Docker
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 《Docker容器实战》.pdf | 《Docker基础与实战》.pdf | 《Docker技术入门与实战 第2版》.pdf | 《高性能Docker》.pdf | 《Docker进阶与实战》.pdf | 《Docker生产环境实践指南》.pdf |
+
 # End
 
