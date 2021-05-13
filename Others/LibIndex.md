@@ -98,7 +98,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | RD-MTK应用开发从入门到精通.tar.gz | RD-MTK智能穿戴(电话手表)开发教程(1~9) | RD-联发科MTK芯片型号资料大全.pdf | RD-联发科安卓SDK开发指南.pdf | RD-Control ofa robotic arm using an Omega2+ module.pdf |
 | MTK应用开发从入门到精通.pdf | 做一款自己的智能手表-视频 | 最新手机实用维修图集.pdf | 手机充电器解决方案.pdf | 各类手机原理图大全 |
-| MT7688_IoT_Kit | 智能路由芯片MT7620 SoC资料 | SmartWatch-Design-Fundamentals.pdf |  |  |
+| MT7688_IoT_Kit | 智能路由芯片MT7620 SoC资料 | SmartWatch-Design-Fundamentals.pdf | RD-可穿戴电子产品设计与开发-电子小白.pdf |  |
 
 ## FPGA
 ### Common
@@ -187,14 +187,27 @@
 | RD-Modbus和ModbusTCP协议基础介绍.pdf | RD-MODBUS规约与报文解析详细说明.pdf | RD-Modbus通讯协议简化.pdf | RD-Modbus高级通讯教程.pdf | Communications between PLC and microcontroller using Modbus Protocol.pdf |
 # Signal Integrity
 ##  SI (Signal Integrity)
-| 1 | 2 | 3 | 4 | 5 |
-| :---: | :---: | :---: | :---: | :---: |
-| RD-2008年中国电子学会SI培训班内部教材.tar.gz | RD-电路板级的电磁兼容设计-飞思卡尔.pdf | RD-EMC测试项目详解.pdf | 4  | 5 |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| RD-2008年中国电子学会SI培训班内部教材.tar.gz | RD-电路板级的电磁兼容设计-飞思卡尔.pdf | RD-EMC测试项目详解.pdf | 信号完整性简介.pdf | 阻抗匹配概念.doc | 信号完整性分析 |
+|  |  |  |  |  | PCB阻抗计算 |
 ## PI (Power Integrity)
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
-| 电源分布系统设计.pdf | 2 | 3 | 4 | 5 |
-
+| 电源分布系统设计.pdf | 电源完整性设计详解.pdf | 电源完整性理论基础.pdf | 高速PCB的电源布线设计.pdf | 5 |
+## EMC/EMI (ElectroMagneticCompatibility/Interference)
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| EMC_EMI设计秘籍.pdf | EMC设计规范.pdf | EMC设计总结.pdf | EMC_Design_Guide.pdf | 减少电磁干扰的印刷电路板设计原则.pdf | 为什么要掌握电磁兼容技术.pdf |
+| 提高电磁兼容性的PCB布局.pdf | 考虑EMC的PCB设计.pdf | PCB的电磁兼容设计.pdf |  |  | 产品EMC设计标准电路参考 |
+## PCB (Layout)
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 焊盘设计 | 高速PCB设计 | PCB板布局原则、布线技巧(图解) | PCB走线拓扑结构 | 电源/地平面的分割技巧 | 手机Layout系列 |
+## Cadence Allegro (Schematic+PCB)
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 小哥Allegro视频系列 | PSPICE仿真 | Allegro教程 | 4 | 5 | CAM350 |
 # Sense Measurement
 ## Common
 | 1 | 2 | 3 | 4 | 5 |
@@ -261,5 +274,13 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 《Docker容器实战》.pdf | 《Docker基础与实战》.pdf | 《Docker技术入门与实战 第2版》.pdf | 《高性能Docker》.pdf | 《Docker进阶与实战》.pdf | 《Docker生产环境实践指南》.pdf |
 
+## GPU
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Professional CUDA C Programming.pdf | GPU Pro 7.pdf | RD-Efficient Video Processing on Embedded GPU.pdf | CUDA by Example An Introduction to General-Purpose GPU Programming.pdf | 并行程序设计（第二版）.pdf | 并行编程模式.pdf |
+## OpenCL
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| OpenCL编程指南.pdf | OpenCL Programming Guide.pdf | OpenCL Programming by Example.pdf | 4 | 5 | 6 |
 # End
 
