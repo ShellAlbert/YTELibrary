@@ -1,3 +1,8 @@
+
+
+
+
+# Build My Own Library - Technology Stack.
 # Electronics_Misc
 ## Basic
 | 1 | 2 | 3 | 4  |
@@ -6,10 +11,14 @@
 | 全国大学生电子设计竞赛常用电路模块制作.pdf | | 电子工程师必备_元器件应用宝典(强化版).pdf | |
 | 电子工程师自学速成-入门篇.pdf | | 电子工程师自学速成-提高篇.pdf | |
 | Basic Engineering Circuit Analysis 10版 彩超清书签版.pdf | | | |
-## Photo Diode
+## PhotoDiode
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
 | 光电二极管及其放大电路设计.pdf | TI光电二极管放大器电路设计分析实例.pdf | 光电二极管-光电三极管应用电路.pdf | TI-AN1244-Photo-Diode Current-to-Voltage.pdf | Aleph公司光电传感器选型手册.pdf |
+## PotentioMeter
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-数字电位器应用指南.pdf | 2 | 3 | 4 | 5 |
 ## Interface
 | 1 | 2 | 3 | 4 |
 | :---: | :---: | :---: | :---: |
@@ -31,7 +40,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 | CAN总线_制定主从通讯协议-ZLG.pdf | 现场总线CAN原理与应用技术-第2版.pdf | 周立功-iCAN应用层协议V1.0-精典.pdf | 简单的自定义应用层协议-11位标识符的分配.pdf | 如何建立一个iCAN网络.ppt |
 | CAN-bus现场总线基础方案-ZLG.pdf | 标准CAN-bus接口电路-ZLG.pdf | CAN总线轻松入门与实践.pdf | Renesas-CAN入门书.pdf | LPC2000系列ARM7微处理器CAN控制器驱动程序的编写与开发-ZLG.pdf |
-
+## SATA(Serial Advanced Technology Attachment)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| SATA数据和电源接口定义详解.pdf | 2 | 3 | 4 | 5 |
 ## SDIO
 ## ADC_DAC(Analog <-> Digital Convert)
 | 1 | 2 | 3 | 4 | 5 |
@@ -64,6 +76,11 @@
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
 | 单片机应用系统的功率接口技术.pdf | 2 | 3 | 4  | 5 |
+### HuaWei(华为-CN)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-硬件工程师手册.pdf | 大规模逻辑设计指导书.pdf | 同步电路设计设计及规则.pdf | 时钟透传技术白皮书.pdf | 静态时序分析与逻辑设计.pdf |
+| 1 | 2 | 3 | 4 | 5 |
 ### Renesas(瑞萨-JP)
 | 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -83,13 +100,40 @@
 | MTK应用开发从入门到精通.pdf | 做一款自己的智能手表-视频 | 最新手机实用维修图集.pdf | 手机充电器解决方案.pdf | 各类手机原理图大全 |
 | MT7688_IoT_Kit | 智能路由芯片MT7620 SoC资料 | SmartWatch-Design-Fundamentals.pdf |  |  |
 
-## Router
-| 1 | 2 | 3 | 4  | 5 |
+## FPGA
+### Common
+| 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
-| RD-智能路由器开发指南.tar.gz | 2 | 3 | 4  | 5 |
+| 1 | Verilog黄金参考指南-ZLG.pdf | Verilog HDL入门教程.pdf | VerilogHDL电路设计指导书-华为.pdf | 如何写好状态机.pdf |
+### Gate(门电路)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| 门电路.pdf | 电阻&二极管&三极管搭出的各种逻辑电路.pdf | 集成门电路及其应用.pdf | 编码的奥秘.pdf | 二三极管门电路.jpg |
+### Xilinx (赛灵思-US)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ChipScope教程 | TclScript教程 | Vivado教程 | FPGA开发全攻略 | 5 |
+### Altera(阿尔特拉-US)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| HelloFPGA系列教程 | IC技术讲座-FPGA | 特权同学FPGA系列 | 芯天地系列教程 | 大西瓜系列教程 |
+| 手把手教你学FPGA设计-基于大道至简的至简设计法.pdf | RD-明德扬视频--点拨FPGA课程 | FPGA那些事儿 | QuartusII Course | Nios II Course |
+|  |  |  | Signaltap II  Course |  |
+### MicroSemi(美高森美-US)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| Libero集成开发环境使用教程.pdf | Libero快速入门讲稿.pdf | Actel A3P030开发板说明书.pdf | Identify使用教程.pdf  | ActelProASIC3开发板原理图.pdf |
+### ModelSim
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ModelSim使用教程.pdf | ModelSim Videos | 3 | 4  | 5 |
+## Router
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-智能路由器开发指南.tar.gz | OpenWRT | LEDE | P4PANDA | 5 |
 
 ## IoT(Internet of Things)
-| 1 | 2 | 3 | 4  | 5 |
+| 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
 | RD-物联网全栈教程-从云端到设备.pdf | 物联网应用启示录——行业分析与案例实践.pdf | RD-Raspberry Pi IoT Projects.pdf | 2016_IoT_Automation_Solutions.pdf | 物联网通信安全及解决方案.pdf |
 
@@ -174,5 +218,14 @@
 | RD-PT100-分度表.pdf | RD-PT100恒流源测温电路.pdf | RD-PT100铂电阻测温电路(稳定版).pdf | RD-PT100测温使用AD623+REF3030组合(很稳定).pdf | RD-Adafruit MAX31865 RTD PT100 or PT1000 Amplifier.pdf |
 | DS18B20单线数字温度传感器.pdf | DS18B20温度传感器中文资料.pdf | DS18B20的工作原理及应用.pdf | 最全面DS18B20中文资料.pdf  | 快速测温热电偶简介.pdf |
 ## 4~20mA
+# Software Application
+## GIS(Geographic Information Sytem-地理信息系统)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| GIS-Basics.pdf | 2 | 3 | 4 | 5 |
+## Database
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| MySQL | Oracle | SQLite | SQLServer | SQL-Language |
 # End
 
