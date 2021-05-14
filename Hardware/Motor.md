@@ -1,4 +1,4 @@
-# Motor
+ #Motor
 ## Encoder
 Encoder
 [P1](https://user-images.githubusercontent.com/32056331/112433924-e063d700-8d7d-11eb-9915-9475f78eb9a4.png)
@@ -17,6 +17,8 @@ H-Bridge
 
 PWM/SPWM
 [P1](https://user-images.githubusercontent.com/32056331/112958288-e50cfe80-9174-11eb-9361-bb233bdbce91.png)
+
+[T形/S形加减速](https://user-images.githubusercontent.com/32056331/118238611-50afee80-b4cb-11eb-88e4-4b232318f146.png)
 
 EmbedFire BLDC DrvSch
 [P1](https://user-images.githubusercontent.com/32056331/112434197-405a7d80-8d7e-11eb-8b98-2e6a4eac4bcd.png)

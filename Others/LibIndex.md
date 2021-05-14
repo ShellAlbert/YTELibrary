@@ -86,7 +86,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | RD-瑞萨电子低功耗MCU实战手册.pdf | 2 | 3 | 4  | 5 |
 ### Texas Instruments(德州仪器-US)
-| MSP430系列 | 2 | 3 | 4 | 5 |
+| 1 | 2 | 3 | 4 | 5 |
 | :---: | :---: | :---: | :---: | :---: |
 | RD-瑞萨电子低功耗MCU实战手册.pdf | 2 | 3 | 4  | 5 |
 ### RockChip(瑞芯微-CN)
@@ -99,7 +99,10 @@
 | RD-MTK应用开发从入门到精通.tar.gz | RD-MTK智能穿戴(电话手表)开发教程(1~9) | RD-联发科MTK芯片型号资料大全.pdf | RD-联发科安卓SDK开发指南.pdf | RD-Control ofa robotic arm using an Omega2+ module.pdf |
 | MTK应用开发从入门到精通.pdf | 做一款自己的智能手表-视频 | 最新手机实用维修图集.pdf | 手机充电器解决方案.pdf | 各类手机原理图大全 |
 | MT7688_IoT_Kit | 智能路由芯片MT7620 SoC资料 | SmartWatch-Design-Fundamentals.pdf | RD-可穿戴电子产品设计与开发-电子小白.pdf |  |
-
+### Qualcomm(高通-US)
+| 1 | 2 | 3 | 4 | 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| RD-瑞萨电子低功耗MCU实战手册.pdf | 2 | 3 | 4  | 5 |
 ## FPGA
 ### Common
 | 1 | 2 | 3 | 4 | 5 |
