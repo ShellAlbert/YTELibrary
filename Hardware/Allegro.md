@@ -8,6 +8,15 @@
 [Allegro制作螺丝机械孔(四周带一圈散热通孔)](https://user-images.githubusercontent.com/32056331/118745274-65540400-b888-11eb-81c5-323ca032b567.png)
 [异形焊盘之Shape合并](https://user-images.githubusercontent.com/32056331/118745754-781b0880-b889-11eb-944f-280db8e2b871.png)
 [防爆孔-卫兵孔-太阳孔](https://user-images.githubusercontent.com/32056331/118746521-fd52ed00-b88a-11eb-9156-e90507f6b5ad.png)
+[Allegro导入AutoCAD DXF作为外板框Outline](https://user-images.githubusercontent.com/32056331/118748789-e9a98580-b88e-11eb-991e-c6d81460fc0d.png)
+
+
+
+
+
+
+
+
 
 
 
