@@ -23,6 +23,10 @@ One Key Power ON/OFF
 [P1](https://user-images.githubusercontent.com/32056331/113376641-ba08f180-93a4-11eb-9cb3-41b69390c5cb.jpg)
 [P2](https://user-images.githubusercontent.com/32056331/113391169-b174e300-93c5-11eb-8772-5f92b01de6ac.png)
 [P3](https://user-images.githubusercontent.com/32056331/113391174-b2a61000-93c5-11eb-8fe2-4d3b8d9ab1f9.png)
+[P4](https://user-images.githubusercontent.com/32056331/119066165-ca873100-ba11-11eb-8950-fca3b1d0e822.png)
+[P5](https://user-images.githubusercontent.com/32056331/119066180-cf4be500-ba11-11eb-908c-2f755d7691e5.png)
+[P6](https://user-images.githubusercontent.com/32056331/119066185-d115a880-ba11-11eb-8007-18a6a6ed123a.png)
+
 Soft Power ON/OFF
 [P1](https://user-images.githubusercontent.com/32056331/113643658-63a5f680-96b5-11eb-8d20-cb0d15f3e44b.png)
 
