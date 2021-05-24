@@ -9,9 +9,11 @@ You can use these keywords to search topics related in Embedded Group.
 锂电池，电池管理，充电电流，放电电流，
 纯硬件一键开关机，单按键开关机，软开关机，
 继电器驱动，电磁阀驱动,NPN,PNP，
+两个板子之间开关量通信，IO判断，
+IGBT驱动，
 ADC，逐次逼近比较，
 示波器，测量，电源纹波，电源噪声，
-4~20mA电流环，变送器，
+4~20mA电流环，变送器，XTR111，
 
 
 
