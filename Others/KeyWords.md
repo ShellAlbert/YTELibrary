@@ -1,5 +1,6 @@
 Keywords List
 You can use these keywords to search topics related in Embedded Group.
+# Concept
 低功耗，静态电流，自身损耗，
 电流镜，current mirror，
 
@@ -23,7 +24,6 @@ MOS管防反接，电源防反接，极性保护，
 导电硅胶，按键触点，PCB，过孔开窗，过孔盖油，阻焊开窗，
 钢网，焊接，SMT，
 
-
 # Sensor
 温度测量，热敏电阻，DS18B20，温度传感器，
 正弦波转方波，
@@ -40,5 +40,8 @@ PWM，占空比，
 # FPGA
 BCD计数器
 
-
-
+# Cadence PSPICE
+PSPICE仿真，激励源，自定义激励源，D触发器，
+VPULSE,VPWL,VSTIM,
+开关，switch，按键，
+CD4013B,消抖，
