@@ -1,6 +1,6 @@
 # Schematic Overview
 ## Hisilicon IPCamera
-[hi3515_digital_media_evalute_board_ver_a](hi3515_digital_media_evalute_board_ver_a/Index.md)
+[hi3515_digital_media_evalute_board_ver_a](Hisilicon/hi3515_digital_media_evalute_board_ver_a.pdf)
 
 
 # Schematic Summary
