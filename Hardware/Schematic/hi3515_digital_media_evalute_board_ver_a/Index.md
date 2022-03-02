@@ -1,4 +1,5 @@
 # hi3515_digital_media_evalute_board_ver_a
+![1](hi3515_digital_media_evalute_board_ver_a.pdf)
 ![1](hi3515_digital_media_evalute_board_ver_a-01.jpg)
 ![2](hi3515_digital_media_evalute_board_ver_a-02.jpg)
 ![3](hi3515_digital_media_evalute_board_ver_a-03.jpg)
